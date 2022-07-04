@@ -6,3 +6,5 @@ This basic simulation of the Solar System was created over two weeks to serve as
 My simulator contains the Sun, all of the planets, and all of the planets' major moons. All of these celestial objects have accurate rotations and perfected orbits (orbits are modeled as perfect circles with the average distance to the sun as its radius) which are tied to an internal clock the user can control. All of the celestial objects' size and relative distances to each other are modeled to-scale. Due to engine and time constraints however, the size and distance scales are different from each other in this simulation. The program allows the user to explore the simulator with a menu of the celestial objects, complete with information about each of them. Users can also launch and freely fly a "Terraforming Rocket" about the simulation, crashing this rocket into a planet or moon will "terraform" it, try it out!
 
 Credits: Rees Anderson
+
+Created for CSS451 at the UW - Autumn Quarter 2021
