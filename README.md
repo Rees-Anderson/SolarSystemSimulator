@@ -1,5 +1,7 @@
 # A Simple Solar System Simulator
-Current WebGL Build: *Add Link Later*
+Current WebGL Build: <https://rees-anderson.github.io/SolarSystemSimulator/SolarSystemSimulator_WebGL>
+
+This link will take you to the hosted page for the WebGL build of the game - it will run in your browser without a download! WebGL is a browser based graphics API, and it's supported natively by common browsers like Safari, Chrome, Edge, and Firefox.
 
 This basic simulation of the Solar System was created over two weeks to serve as my submission for the final project of the CSS451 3D Computer Graphics course at the University of Washington. The focus of this course was learning how 3D graphics systems work including how graphics engines render objects, keep track of object location and size relative to each other, map textures, implement shaders, and more. The goal of the final project was to show everything we'd learned over the course by having us modify and overwrite the Unity Engine to make use of our own implementations of the location hierarchy, texture mapping, rendering pipeline, and shaders - and then create an interactive application that shows off each of these features. I chose a simulation of our Solar System since it naturally lends itself well to everything on that list.
 
